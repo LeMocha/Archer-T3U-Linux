@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 has_cmd "sudo"
 has_cmd "wget"
 has_cmd "unzip"
